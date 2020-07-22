@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>You shall be a Blessing! Glory to God</h2>
+<h2>Devops classes are going seriously now</h2>
 </body>
 </html>
